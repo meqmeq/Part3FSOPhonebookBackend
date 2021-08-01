@@ -9,3 +9,6 @@ content-type: application/json
     "name": "asarc",
     "number": "1241512"
 }
+###
+
+GET http://localhost:3001/info HTTP/1.1
